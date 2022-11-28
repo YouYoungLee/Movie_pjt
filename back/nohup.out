@@ -1,0 +1,82 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2022 - 08:08:49
+Django version 3.2.6, using settings 'POPGG.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Bad Request: /accounts/signup/
+[17/Nov/2022 08:08:56] "POST /accounts/signup/ HTTP/1.1" 400 13044
+Not Found: /
+[17/Nov/2022 08:10:24] "GET / HTTP/1.1" 404 2609
+Not Found: /favicon.ico
+[17/Nov/2022 08:10:24] "GET /favicon.ico HTTP/1.1" 404 2660
+Not Found: /
+[17/Nov/2022 08:10:56] "GET / HTTP/1.1" 404 2609
+Not Found: /
+[17/Nov/2022 08:10:57] "GET / HTTP/1.1" 404 2609
+Not Found: /
+[17/Nov/2022 08:10:58] "GET / HTTP/1.1" 404 2609
+Not Found: /
+[17/Nov/2022 08:10:58] "GET / HTTP/1.1" 404 2609
+Not Found: /
+[17/Nov/2022 08:10:59] "GET / HTTP/1.1" 404 2609
+Not Found: /
+[17/Nov/2022 08:10:59] "GET / HTTP/1.1" 404 2609
+/home/ubuntu/pop.gg-back/POPGG/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2022 - 08:12:28
+Django version 3.2.6, using settings 'POPGG.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+/home/ubuntu/pop.gg-back/POPGG/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2022 - 08:12:33
+Django version 3.2.6, using settings 'POPGG.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+/home/ubuntu/pop.gg-back/POPGG/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2022 - 08:12:51
+Django version 3.2.6, using settings 'POPGG.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Not Found: /
+[17/Nov/2022 08:13:13] "GET / HTTP/1.1" 404 2609
+[17/Nov/2022 08:14:01] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:14:01] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:14:02] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:14:02] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:14:02] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:14:02] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:14:02] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:14:03] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+Not Found: /api/v1
+[17/Nov/2022 08:19:21] "GET /api/v1 HTTP/1.1" 404 2645
+Not Found: /api/v1/
+[17/Nov/2022 08:19:23] "GET /api/v1/ HTTP/1.1" 404 3629
+/home/ubuntu/pop.gg-back/movies/views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2022 - 08:21:29
+Django version 3.2.6, using settings 'POPGG.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[17/Nov/2022 08:25:57] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:25:58] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:28:50] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:28:51] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:28:54] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
+[17/Nov/2022 08:28:57] "GET /api/v1/movielist/ HTTP/1.1" 200 41076
